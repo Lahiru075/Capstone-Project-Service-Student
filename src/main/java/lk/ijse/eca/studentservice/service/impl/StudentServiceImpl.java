@@ -7,7 +7,7 @@ import lk.ijse.eca.studentservice.mapper.StudentMapper;
 import lk.ijse.eca.studentservice.exception.FileOperationException;
 import lk.ijse.eca.studentservice.exception.StudentNotFoundException;
 import lk.ijse.eca.studentservice.repository.StudentRepository;
-import lk.ijse.eca.studentservice.service.CloudStorageService;
+import lk.ijse.eca.studentservice.service.impl.CloudStorageService;
 import lk.ijse.eca.studentservice.service.StudentService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

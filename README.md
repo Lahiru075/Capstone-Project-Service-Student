@@ -4,11 +4,15 @@ A microservice responsible for managing student records, including profile infor
 
 ---
 
-## 📌 Student Information
-- **Student Name:** Lahiru Lakshan
-- **Student Number:** 241711074
-- **Slack Handle:** Lahiru Sanjeewa
-- **GCP Project ID:** lahiru-gcp-lab
+## 📌 Student & Project Information
+
+| Field | Details |
+| :--- | :--- |
+| **Student Name** | Lahiru Lakshan |
+| **Student Number** | 241711074 |
+| **Slack Handle** | Lahiru Sanjeewa |
+| **GCP Project ID** | lahiru-gcp-lab |
+| **Submission Type** | Alternative Option (Capstone Project) |
 
 ---
 
